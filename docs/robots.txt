@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khalilalfahd.github.io/aldar-alarabi-restaurant/sitemap.xml
